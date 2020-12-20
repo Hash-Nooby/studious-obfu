@@ -12,8 +12,7 @@ echo -e "
         \033[0;1;36m  | (_) | |_) |  _| |_| |\033[0m 
         \033[0;1;36m   \___/|_.__/|_|  \__,_|\033[0m 
 \033[0;1;35m        - This script was developed by Hash-Nooby.
-        - H4x0r
-        - Beginner developer.
+        - Elite Developer.
         - Rot13 Obfuscator.\033[0m  
         \033[0;1;46;36m- The encryption result is displayed between the {}.\033[0m                                      
 "
