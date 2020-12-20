@@ -1,6 +1,8 @@
 # studious-obfu
 Obfuscator for JavaScript and Node.js 
 
+![obfu](https://cdn.discordapp.com/attachments/709874165842182194/790185167624863764/1200px-ROT13_table_with_example.svg.png)
+
 ## Installation:
 
 ```
